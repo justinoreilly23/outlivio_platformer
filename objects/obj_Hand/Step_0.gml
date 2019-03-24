@@ -1,0 +1,1 @@
+image_blend = obj_player.skinColor;

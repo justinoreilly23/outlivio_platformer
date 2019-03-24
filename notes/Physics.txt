@@ -1,0 +1,24 @@
+/** CHARACTER PHYSICS **/
+
+Canvas Size:
+W: 128
+H: 128
+
+Shadow Layer Transparency: 50
+
+Origin: 63 x 74
+
+Distance from bottom of shadow to origin: 40px
+Distance from top of shadow to origin: 25px
+
+Collision Mask
+ Left:   51
+ Top:    34
+ Right:  76
+ Bottom: 105
+ 
+/** WEAPON PHYSICS **/
+
+/** **/
+/** **/
+/**  **/

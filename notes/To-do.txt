@@ -1,0 +1,30 @@
+-- HIGH PRIORITY --
+
+Create muzzle flash for all weapons
+
+Redraw player shadow
+
+Add magazine/ammo mechanism
+
+Add reloading animation to all sprites
+
+
+-- LOW PRIORITY --
+
+Finish animating selectable sprites
+
+Add weapon charge animation
+
+Add gun smoke
+
+
+
+-- AFTER YOU'RE DONE --
+
+Draw map
+
+Draw buildings
+
+Draw obstacles
+
+Add collisions

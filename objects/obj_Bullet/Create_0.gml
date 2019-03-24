@@ -1,0 +1,1 @@
+bulletDamage = 0;
